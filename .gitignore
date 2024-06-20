@@ -1,6 +1,5 @@
 *.log
 
-.env
 .user.ini
 .htaccess
 .husky
